@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0px;
+    background-color: #f4f4f4;
+}
+
+header{
+    background-color: rgba(0, 46, 99, 0.89);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+footer{
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left: 50%;
+    transform:translateX(-50%);
+    top: 30px;
+}
